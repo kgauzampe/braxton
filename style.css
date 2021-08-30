@@ -59,6 +59,19 @@ nav img {
 .notifications h3 {
     color: #0F529B;
 }
+#notList li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+    vertical-align: top;
+
+}
+#notList img {
+  
+    width: 20px;
+    height: 20px;
+    
+}
 .covid {
 grid-area: covid;
 }
